@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "a6b146cebe4bd78c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9571fdccd8f0d9ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a47ee684b3ccfac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/程序指令/ssh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3009f26b5187c089",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
+            "id": "dc7721e49cb3a488",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian/NixOS/nix指令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f622701bcac52e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d9aa3e44b8dc8b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed0fc85d5d68094",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "546377caac557a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"obsidian/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36328e12d15dd937",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7f451c8576784076",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a7c86dae13a0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13838656573f931e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "obsidian/程序指令/ssh.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1eff461f08668a0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "obsidian/程序指令/ssh.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d65e3040f054a9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "597b351fdf6e9a9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "obsidian/程序指令/ssh.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false,
+      "audio-recorder:開始/停止錄音": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "546377caac557a96",
+  "lastOpenFiles": [
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "obsidian/NixOS/nix指令.md",
+    "obsidian/NixServer/部署.md",
+    "obsidian/NixServer/网络结构.canvas",
+    "obsidian/NixOS/NixOS最小镜像安装.md",
+    "obsidian/NixOS/远程部署.md",
+    "obsidian/NixOS/一些bash&zsh指令.md",
+    "obsidian/NixOS/一些事情.md",
+    "obsidian/NixOS/nushell/nushell数据类型.md",
+    "obsidian/NixOS/nushell/nushell介绍.md",
+    "obsidian/minecraft/modlist 19.2to20.1.md",
+    "obsidian/minecraft/java.md",
+    "obsidian/minecraft/管理服务器.md",
+    "obsidian/MacOS/一些指令.md",
+    "obsidian/Arch/将鸭子设置为Arch默认文件管理器.md",
+    "obsidian/Android/test.md",
+    "obsidian/程序指令/vi.md",
+    "obsidian/程序指令/tmux.md",
+    "obsidian/程序指令/Docker指令.md",
+    "obsidian/程序设计/关于 UML（Unified Modeling Language）和 UML class diagram.md",
+    "obsidian/程序设计/关于 CRC Card (Class-Responsibility-Collaborator card).md",
+    "obsidian/程序设计/web/未命名.md",
+    "obsidian/程序设计/rust/warehouse 1.md",
+    "obsidian/程序设计/rust/warehouse.md",
+    "obsidian/程序设计/rust/SQLite lib.md",
+    "obsidian/程序设计/rust/截圖 2024-09-06 16.16.05.png",
+    "obsidian/程序设计/rust/依赖.md",
+    "obsidian/程序设计/CSharp/多载.md",
+    "截圖 2024-09-06 16.16.05.png",
+    "obsidian/程序设计/rust/srs.html",
+    "obsidian/截圖 2024-09-06 16.16.05.png",
+    "obsidian/MacOS",
+    "未命名",
+    "obsidian/图片URL.jpg",
+    "obsidian/学习笔记",
+    "obsidian/程序设计/rust/warehouse.md.html",
+    "obsidian/程序设计/rust/warehouse2.md.html",
+    "obsidian/程序设计/rust/github-markdown-light.css",
+    "obsidian/程序设计/rust/github-markdown.css",
+    "obsidian/程序设计/rust/warehouse.html",
+    "obsidian/Pasted image 20240409014928.png",
+    "obsidian/程序设计/rust",
+    "Pasted image 20240409014928.png",
+    "图片URL.jpg",
+    "NixServer/网络结构.canvas"
+  ]
+}
