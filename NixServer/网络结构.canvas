@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"24d7d0c4cfb5d596","x":360,"y":-60,"width":80,"height":420,"type":"text","text":"宿主机"},
+		{"id":"9cdbd2d75fd7fa22","x":-40,"y":80,"width":460,"height":140,"type":"text","text":"openwrt 容器\n旁路由模式\n本机作为逻辑网关\n提供DHCP服务"},
+		{"id":"1d259a5c88815d0d","x":0,"y":-60,"width":250,"height":60,"type":"text","text":"主路由"}
+	],
+	"edges":[
+		{"id":"75f4708a05c273ee","fromNode":"9cdbd2d75fd7fa22","fromSide":"left","toNode":"1d259a5c88815d0d","toSide":"left","label":"使用宿主机的一个网络接口"},
+		{"id":"b552214dc03d49b7","fromNode":"24d7d0c4cfb5d596","fromSide":"bottom","toNode":"9cdbd2d75fd7fa22","toSide":"left","label":"建立一个虚拟网卡与openwrt使用的网口共享网络,逻辑上连接了主路由"}
+	]
+}
