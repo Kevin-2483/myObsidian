@@ -128,3 +128,9 @@ git remote set-url origin git@github.com:username/repository.git
 完成后，你可以使用`git remote -v`命令验证更改是否生效。喵~
 
 ![[Pasted image 20240409014928.png]]
+
+```
+git log
+```
+
+获取版本哈希
